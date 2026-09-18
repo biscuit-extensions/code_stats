@@ -1,0 +1,7 @@
+[extension]
+id = "code_stats"
+name = "Code Stats"
+version = "0.1.0"
+description = "Code Stats extension for Biscuit"
+author = "biscuit-extensions"
+icon = "icon.png"
